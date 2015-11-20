@@ -8,7 +8,7 @@
 <BODY>
 <TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Segoe UI" COLOR=#000000><CAPTION><B>A. 1 , 2 DAN 3 LEMBAR  - TGL:20/11/2015 JAM : 17:48# PERUBAHAN PLG >33000 DAN 3 LEMBAR #</B></CAPTION></FONT>
 
-<table><tbody><tr><th>THBL</th><th>Target Piutang Tgl 20</th><th>Target Tunggakan Akhir Bulan</th></tr><tr><td>201511</td><td>288.471.808</td><td>27.048.305</td></tr><tr><td>Realisasi 20/11_13:50</td><td>413.233.329</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr></tbody></table>
+<table><tbody><tr><th>THBL</th><th>Target Piutang Tgl 20</th><th>Target Tunggakan Akhir Bulan</th></tr><tr><td>201511</td><td>288.471.808</td><td>27.048.305</td></tr><tr><td>Realisasi 20/11_17:48</td><td>413.233.329</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr></tbody></table>
 		
 
 
