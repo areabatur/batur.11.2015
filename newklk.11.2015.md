@@ -6,7 +6,7 @@
 
 </HEAD>
 <BODY>
-<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Segoe UI" COLOR=#000000><CAPTION><B>A. 1 , 2 DAN 3 LEMBAR  - TGL:20/11/2015 JAM : 06:45# PERUBAHAN PLG >33000 DAN 3 LEMBAR #</B></CAPTION></FONT>
+<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Segoe UI" COLOR=#000000><CAPTION><B>A. 1 , 2 DAN 3 LEMBAR  - TGL:20/11/2015 JAM : 13:50# PERUBAHAN PLG >33000 DAN 3 LEMBAR #</B></CAPTION></FONT>
 
 <table><tbody><tr><th>THBL</th><th>Target Piutang Tgl 20</th><th>Target Tunggakan Akhir Bulan</th></tr><tr><td>201511</td><td>288.471.808</td><td>27.048.305</td></tr><tr><td>Realisasi 20/11_13:50</td><td>504.786.512</td><td> </td></tr></tbody></table>
 
